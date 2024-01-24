@@ -1,0 +1,21 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "e=\u001b[H=\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[3~"
+  },
+  "keywords": [
+    "\u001b[3~\u001b[3~\u001b[3~"
+  ],
+  "author": "\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[-commerce-api",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
